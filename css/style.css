@@ -1,5 +1,9 @@
+.body {
+    background-color: rgb(226, 225, 146);
+}
+
 #verbs-container {
-    margin: 0 35;
+    margin: 0 35%;
 }
 
 .verbs-answer {
@@ -10,18 +14,18 @@
 .rightAnswer:hover {
     background-color: #6ab04c;
     border-color: #6ab04c;
-    color: #fff
+    color: #ffffff;
 }
 
 .wrongAnswer,
 .wrongAnswer:hover {
-    background-color: red;
-    border-color: red;
-    color: #fff
+    background-color: #B33030;
+    border-color: #B33030;
+    color: #ffffff;
 }
 
 #next {
-    margin-top: 8rem;
+    margin-top: 10rem;
     cursor: pointer;
     color: green;
 }

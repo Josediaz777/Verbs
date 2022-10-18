@@ -1,9 +1,95 @@
 const verbs = [
-    'open',
-    'close'
-]
+  'Open',
+  'Close',
+  'Run',
+  'Play',
+  'Kiss',
+  'Fight',
+  'Fly',
+  'Win',
+  'Watch',
+  'Walk',
+  'Talk',
+  'Eat',
+  'Drive',
+  'Program',
+  'Dance',
+  'Swim',
+  'Breathe',
+  'think',
+  'Sing',
+  'Write',
+  'Wash',
+  'Cry',
+  'Drink',
+  'Call',
+  'Search',
+  'Count',
+  'Read',
+  'Teach',
+  'Take',
+  'Turn on',
+  'Turn off',
+  'Listen',
+  'Move',
+  'Jump',
+  'Carry',
+  'Use',
+  'Paint',
+  'Encourage',
+  'Cut',
+  'Shine',
+  'Shot'
+
+];
 
 const verbos = [
-    'abrir',
-    'cerrar'
-]
+  'Abrir',
+  'Cerrar',
+  'Correr',
+  'Jugar',
+  'Besar',
+  'Pelear',
+  'Volar',
+  'Ganar',
+  'Ver',
+  'Caminar',
+  'Hablar',
+  'Comer',
+  'Manejar',
+  'Programar',
+  'Bailar',
+  'Nadar',
+  'Respirar',
+  'Pensar',
+  'Cantar',
+  'Escribir',
+  'Lavar',
+  'Llorar',
+  'Beber',
+  'Llamar',
+  'Buscar',
+  'Contar',
+  'Leer',
+  'Enseñar',
+  'Tomar',
+  'Encender',
+  'Apagar',
+  'Escuchar',
+  'Mover',
+  'Saltar',
+  'Llevar',
+  'Usar',
+  'Pintar',
+  'Animar',
+  'Recortar',
+  'Brillar',
+  'Disparar'
+
+
+
+
+
+
+
+];
